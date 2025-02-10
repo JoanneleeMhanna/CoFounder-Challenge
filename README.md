@@ -11,11 +11,7 @@ This repo contains the challenge given to all applying to the position UX/UI fro
 
 ## Challenge
 1. Build a small example website (no more than 3 sites. Site number does not matter - if you can show all you need/want in less that is totally ok!) in the broader topic of kitchens. (If you design it first with other tools feel free to add those files as well)
-   - Figma Design File: <https://www.figma.com/design/hnVw2kU4P8HDEd8KB6O1z0/SpoonUp?node-id=131-41&t=piVGkoh0OvHpvA0B-1>
-     (Page 1: High fidelity // Page 2: Presentation)
-   - html files coudn't be uploaded (will be sent via email)
-2. Use the example website to showcase your UX capabilities where you see fit.
-   - UX study Figma link: <https://www.figma.com/board/wwags5zhDqqGh6Y6vSBJdt/SpoonUp-UX-research?node-id=0-1&t=dkb0zLxQdA8Yrc2m-1>
+2. Use the example website to showcase your UX capabilities where you see fit
 3. Bonus Points: Write some website functionality in Rust via WebAssembly.
 
 ## Goals
@@ -37,7 +33,7 @@ YYYY-MM-DD:
 1. Example command
 
 ### Help used
-1. ChatGPT/Anima(figma plugin)
+1. Example Chatgpt
 
 ### Optional Remarks
 If you want to document anything about this challenge for me to see. Please feel free to send me a private message (f.e. an E-Mail) if you do not want to add something publicly.
