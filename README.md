@@ -13,11 +13,10 @@ This repo contains the challenge given to all applying to the position UX/UI fro
 1. Build a small example website (no more than 3 sites. Site number does not matter - if you can show all you need/want in less that is totally ok!) in the broader topic of kitchens. (If you design it first with other tools feel free to add those files as well)
   - Figma Design File: <https://www.figma.com/design/hnVw2kU4P8HDEd8KB6O1z0/SpoonUp?node-id=131-41&t=j4uEBKIH8hwauTvx-1>
     (Page 1: High Fidelity // Page 2: Presentaion)
-  - HTML Files couldn't be uploaded (Will be sent Via Email)
+  - HTML Files couldn't be uploaded (Sent Via Email) // HTML files should be combined into a folder for some buttons to work properly.
 3. Use the example website to showcase your UX capabilities where you see fit
  - UX research: <https://www.figma.com/board/wwags5zhDqqGh6Y6vSBJdt/SpoonUp-UX-research?node-id=0-1&t=kMmByuc9X66wztdO-1>
 4. Bonus Points: Write some website functionality in Rust via WebAssembly.
-   - In Progress..
 
 ## Goals
 I want to see from you:
