@@ -31,7 +31,7 @@ This repo contains the challenge given to all applying to the position UX/UI fro
   - Developed strategies to enhance features and improve overall product value.  
 
 **3) User Persona Development**  
-  - Created detailed user personas to understand target audience pain points and needs.  
+  - Created a user persona to understand target audience pain points and needs.  
   - Ensured a user-centric approach in product development.  
   - Tailored solutions to deliver a product that truly resonates with users.  
 
