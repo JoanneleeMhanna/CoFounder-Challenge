@@ -14,9 +14,24 @@ This repo contains the challenge given to all applying to the position UX/UI fro
   - Figma Design File: <https://www.figma.com/design/hnVw2kU4P8HDEd8KB6O1z0/SpoonUp?node-id=131-41&t=j4uEBKIH8hwauTvx-1>
     (Page 1: High Fidelity // Page 2: Presentaion)
   - HTML Files couldn't be uploaded (Sent Via Email) // HTML files should be combined into a folder for some buttons to work properly.
-3. Use the example website to showcase your UX capabilities where you see fit
+
+2. Use the example website to showcase your UX capabilities where you see fit
  - UX research: <https://www.figma.com/board/wwags5zhDqqGh6Y6vSBJdt/SpoonUp-UX-research?node-id=0-1&t=kMmByuc9X66wztdO-1>
-4. Bonus Points: Write some website functionality in Rust via WebAssembly.
+ - **Approach to Problem-Solving:**
+ - **Competitor Analysis & SWOT Assessment**  
+  - Conducted in-depth research to evaluate competitors' strengths and weaknesses.  
+  - Identified areas where SpoonUp can gain a competitive edge.  
+  - Implemented valuable insights from competitors to improve the website.  
+- **SpoonUp Market Positioning**  
+  - Used SWOT analysis to assess SpoonUp’s current standing in the market.  
+  - Identified opportunities for growth while addressing weaknesses and mitigating threats.  
+  - Developed strategies to enhance features and improve overall product value.  
+- **User Persona Development**  
+  - Created detailed user personas to understand target audience pain points and needs.  
+  - Ensured a user-centric approach in product development.  
+  - Tailored solutions to deliver a product that truly resonates with users.  
+
+3. Bonus Points: Write some website functionality in Rust via WebAssembly.
 
 ## Goals
 I want to see from you:
