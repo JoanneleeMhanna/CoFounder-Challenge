@@ -24,10 +24,12 @@ This repo contains the challenge given to all applying to the position UX/UI fro
   - Conducted in-depth research to evaluate competitors' strengths and weaknesses.  
   - Identified areas where SpoonUp can gain a competitive edge.  
   - Implemented valuable insights from competitors to improve the website.  
+
 **2) SpoonUp Market Positioning**  
   - Used SWOT analysis to assess SpoonUp’s current standing in the market.  
   - Identified opportunities for growth while addressing weaknesses and mitigating threats.  
   - Developed strategies to enhance features and improve overall product value.  
+
 **3) User Persona Development**  
   - Created detailed user personas to understand target audience pain points and needs.  
   - Ensured a user-centric approach in product development.  
